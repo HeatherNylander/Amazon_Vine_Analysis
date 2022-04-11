@@ -9,7 +9,7 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 #### How many Vine reviews and non-Vine reviews were there?
 ![image](https://user-images.githubusercontent.com/92553327/162681372-c89baaa8-db28-4b44-9cb1-6cca072da199.png)
 - Vine: 4291 
-- Non-Vine: 40471
+- Non-Vine: 40565
 
 #### How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 ![image](https://user-images.githubusercontent.com/92553327/162681182-7b275007-b5df-40c7-9b24-84805896a6ec.png)
@@ -18,8 +18,7 @@ In this project, you’ll have access to approximately 50 datasets. Each one con
 
 #### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 ![image](https://user-images.githubusercontent.com/92553327/162681091-1e620148-9729-4825-8baa-c08dad4db962.png)
-- 38.2% vine
-- 38.9% non-vine
+- 38.8 %
 
 
 ## Summary
